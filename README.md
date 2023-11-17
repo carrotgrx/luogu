@@ -1,2 +1,2 @@
 # luogu
-a lo g
+> algorithm exercise
