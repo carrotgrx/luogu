@@ -33,3 +33,48 @@ notnotn
 ```
 1110
 ```
+
+## 【样例 $2$ 输入】  
+
+```
+23 1
+x
+w
+y
+l
+n
+e
+j
+d
+o
+t
+u
+z
+s
+b
+k
+h
+q
+f
+g
+i
+v
+c
+r
+```
+
+## 【样例 $2$ 输出】  
+
+```
+00000000000001000000000
+```
+
+## 【其他样例输入】  
+
+[dict3.in](./dict3.in "dict3.in")  
+[dict4.in](./dict4.in "dict4.in")
+
+## 【其他样例输出】  
+
+[dict3.ans](./dict3.ans)  
+[dict4.ans](./dict4.ans)  
